@@ -1,11 +1,11 @@
 # Projeto Fusion - Projeto Feito Durante o Aprenziado de Django.
-**Descrição**: Projeto feito em Django durante o aprendizado do *framework* na simulação de um projeto real com uma interfacie completa, menus e aniumações.
+**Descrição**:  Projeto feito em Django durante o aprendizado do framework na simulação de um projeto real com uma interface completa, menus e animações.
 
-**Aprendizado**: O porjeto foi desenvolvido utilizando conceitos de *Forms*, *Models* e *FormView* presentes no Django. Também foram fetios trateamento de erros simples e integração direta entre o FrontEnd e BackEnd.
+**Aprendizado**: O projeto foi desenvolvido utilizando conceitos de *Forms*, *Models* e *FormView* presentes no Django. Também foram feitos trateamento de erros simples e integração direta entre o FrontEnd e BackEnd.
 
 **Features:**
 - Cadastro de novos serviços;
-- Cadastro de novos funcionarios;
+- Cadastro de novos funcionários;
 - Cadastro de novos recursos.
 
 **Pagina Inicial**
