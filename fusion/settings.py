@@ -79,21 +79,20 @@ WSGI_APPLICATION = 'fusion.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 
-'''
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'fusion',
+        'NAME': 'postgres',
         'USER': 'postgres',
-        'PASSWORD': 'ita123456',
+        'PASSWORD': '123456',
         'HOST': 'localhost',
         'PORT': '5432',
     }
 }
-'''
-DATABASES = {
-    'default': dj_database_url.config()
-}
+
+#DATABASES['default']= dj_database_url.config('postgres://postgres:ita123456@localhost:5432/postgres')
+
 
 
 # Password validation
